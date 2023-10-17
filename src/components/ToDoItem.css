@@ -1,0 +1,23 @@
+.to-do-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 30vw;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(239, 238, 236);
+    margin: 60px auto;
+
+}
+
+
+.to-do-wrapper button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 100px ;
+    margin: 10px;
+}
